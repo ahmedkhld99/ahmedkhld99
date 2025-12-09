@@ -1,5 +1,5 @@
-<p align="center"><img src="name.png" alt="Ahmed Khaled" style="width: 300px; margin-bottom: -10px;"/></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=543228&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=543228&center=true&vCenter=true&random=false&width=435&lines=Ahmed Khaled ;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
+
 # 💫 About Me:
 🔭 I’m currently Open to Opportunities<br>👩‍💻 I'm a self-taught front-end web developer.<br>⚡ All of my projects are available at https://ahmedkhld99.github.io/Portfolio/<br>🌱  I’m currently learning Next.js<br>💬 How to reach me ahmed_kh_99@outlook.com<br>
 
