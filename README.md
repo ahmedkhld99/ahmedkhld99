@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=543228&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
 
 # 💫 About Me:
@@ -13,6 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmedkhld99&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedkhld99&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhld99&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
