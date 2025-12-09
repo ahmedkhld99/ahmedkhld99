@@ -1,3 +1,5 @@
+<p align="center"><img src="name.png" alt="Nada W. Abdelfattah" style="width: 300px; margin-bottom: -10px;"/></p>
+
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1f6feb&center=true&vCenter=true&random=false&width=500&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
 
 # 💫 About Me:
