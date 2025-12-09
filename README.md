@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name.png" alt="Ahmed Khaled" style="width: 100%; max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+  <img src="newname.png" alt="Ahmed Khaled" style="width: 100%; max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1f6feb&center=true&vCenter=true&random=false&width=500&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
